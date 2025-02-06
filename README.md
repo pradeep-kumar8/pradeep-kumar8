@@ -27,7 +27,7 @@
 ---
 ## 🌍 Connect with Me
 
-[![ My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-kumar8/)  
+[![ My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-kumar8/) 
 [![ My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pradeep.kmr.pro@gmail.com)
 
  
