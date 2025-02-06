@@ -21,7 +21,7 @@
 
 ## GitHub Stats 💻
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-kumar8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-kumar8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeep-kumar8&show_icons=true&theme=radical)
 
