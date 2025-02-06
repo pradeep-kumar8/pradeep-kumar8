@@ -29,7 +29,7 @@
 ## 🌍 Connect with Me
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pradeep-kumar8/)
-[<span style="text-decoration:none;"> 📧 </span>](mailto:pradeep.kmr.pro@gmail.com)
+[**📧**](mailto:pradeep.kmr.pro@gmail.com)
 [<span style="text-decoration:none;"> 🤗</span>](https://huggingface.co/Pradeep8)
 
  
