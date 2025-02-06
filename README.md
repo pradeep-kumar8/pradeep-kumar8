@@ -27,12 +27,8 @@
 ---
 ## 🌍 Connect with Me
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pradeep-kumar8/)
-[**📧**](mailto:pradeep.kmr.pro@gmail.com)
-[<span style="text-decoration:none;"> 🤗</span>](https://huggingface.co/Pradeep8)
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-kumar8/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pradeep.kmr.pro@gmail.com)
+[![ My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-kumar8/)  
+[![ My Skills](https://skillicons.dev/icons?i=gmail)](mailto:pradeep.kmr.pro@gmail.com)
 
  
 ---
