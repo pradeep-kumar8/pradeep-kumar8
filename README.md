@@ -3,9 +3,7 @@
 
 ## 🌍 Connect With Me  
 
-![linkedin](https://github.com/user-attachments/assets/d3dc2ee5-d0d7-4abe-9240-af3c1f3461c4)
-
-[![linkedin][https://github.com/user-attachments/assets/ad2231b6-0eb8-47f5-b979-ca18ee501a3c]](https://www.linkedin.com/in/pradeep-kumar8/)
+[![linkedin](https://github.com/user-attachments/assets/7b1be6d8-56f4-4566-8033-1549a6f78e44)](https://www.linkedin.com/in/pradeep-kumar8/)
 
 ---
 
