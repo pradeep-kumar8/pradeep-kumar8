@@ -2,7 +2,7 @@
 # Hi, I'm Pradeep! 👋
 
 
-## 🚀 About Me  [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pradeep-kumar8/)
+## 🚀 About Me
 
 - 🎯 Aspiring **AI | GenAI Engineer**, passionate about **RAG, LLMs, NLP, Generative AI, Agentic AI, and Machine Learning**.  
 - 🏆 **Building & Deploying AI Projects** – Explore my work on **[Hugging Face](https://huggingface.co/Pradeep8)**.  
@@ -26,7 +26,12 @@
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeep-kumar8&show_icons=true&theme=radical)
 
 ---
+## 🌍 Connect with Me
 
+ [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pradeep-kumar8/)
+ [📧](mailto:pradeep.kmr.pro@gmail.com)
+ 
+---
 ## 💖 Support My Work!
 
 If you find my content useful, **please consider starring my repositories**! 🌟  
