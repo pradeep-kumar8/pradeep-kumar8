@@ -1,8 +1,9 @@
 
 # Hi, I'm Pradeep! 👋
+
 [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/)
 
----
+--
 
 ## 🚀 About Me
 
