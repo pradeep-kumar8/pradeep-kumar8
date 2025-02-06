@@ -4,9 +4,7 @@
 ## 🌍 Connect With Me  
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" />
-  </a>
+  [![image](https://github.com/user-attachments/assets/ad2231b6-0eb8-47f5-b979-ca18ee501a3c)](https://www.linkedin.com/in/pradeep-kumar8/))
   <a href="https://youtube.com/your-channel">
     <img src="https://img.shields.io/badge/-white?logo=youtube&logoColor=FF0000&style=for-the-badge" />
   </a>
