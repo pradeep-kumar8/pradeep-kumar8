@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-- 🎯 Aspiring **AI Engineer | Data Scientist**, passionate about **Gen AI, RAG, NLP, & Machine Learning**.  
+- 🎯 Aspiring **AI Engineer | Data Scientist**, passionate about **Gen AI, NLP, & Machine Learning**.  
 - 🏆 **Building & Deploying AI Projects** – Explore my work on **[Hugging Face](https://huggingface.co/Pradeep8)** and **Streamlit**.  
 - ⚡ Currently working as a **Data Analyst** at **[Progressive Infotech](https://www.progressive.in)**, gaining hands-on experience in data-driven insights and analytics..  
 - 🌱 Focused on learning **Agentic AI and Advanced AI Techniques**  to further my career in AI engineering and development.
