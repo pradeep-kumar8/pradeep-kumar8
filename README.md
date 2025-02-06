@@ -29,9 +29,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-kumar8/) 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:pradeep.kmr.pro@gmail.com)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:pradeep.kmr.pro@gmail.com)
-<a href="mailto:pradeep.kmr.pro@gmail.com"><span style="font-size: 24px;">📧</span></a>
-<a href="mailto:pradeep.kmr.pro@gmail.com">[![Email](https://skillicons.dev/icons?i=gmail)]</a>
+[Email](mailto:pradeep.kmr.pro@gmail.com)
 
  
 ---
