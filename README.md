@@ -28,10 +28,14 @@
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-white?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://linkedin.com/in/your-linkedin-handle)  
-[![Hugging Face](https://img.shields.io/badge/-white?logo=huggingface&logoColor=FFCC00&style=for-the-badge)](https://huggingface.co/your-huggingface-profile)  
-[![YouTube](https://img.shields.io/badge/-white?logo=youtube&logoColor=FF0000&style=for-the-badge)](https://youtube.com/your-channel)  
-[![Twitter](https://img.shields.io/badge/-white?logo=twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/your-twitter-handle)  
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://img.shields.io/badge/-white?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
+  </a>
+  <a href="https://youtube.com/your-channel">
+    <img src="https://img.shields.io/badge/-white?logo=youtube&logoColor=FF0000&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
