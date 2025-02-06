@@ -4,9 +4,9 @@
 ## 🌍 Connect With Me  
 
 <p>
-  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/pradeep-kumar8/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
-  </a> &nbsp; 
+  </a>
 </p>
 ---
 
