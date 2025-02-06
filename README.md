@@ -3,8 +3,14 @@
 
 ## 🌍 Connect With Me  
 
-[![linkedin](https://github.com/user-attachments/assets/7b1be6d8-56f4-4566-8033-1549a6f78e44)](https://www.linkedin.com/in/pradeep-kumar8/)
-
+<p>
+  <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
+  </a>
+</p>
 ---
 
 ## 🚀 About Me
