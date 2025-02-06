@@ -29,8 +29,6 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/pradeep-kumar8/) 
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:pradeep.kmr.pro@gmail.com)
-[Email](mailto:pradeep.kmr.pro@gmail.com)
-
  
 ---
 ## 💖 Support My Work!
