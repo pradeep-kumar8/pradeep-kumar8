@@ -1,11 +1,9 @@
 
 # Hi, I'm Pradeep! 👋
 
-[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/)
+---
 
---
-
-## 🚀 About Me
+## 🚀 About Me [![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/pradeep-kumar8/)
 
 - 🎯 Aspiring **AI | GenAI Engineer**, passionate about **RAG, LLMs, NLP, Generative AI, Agentic AI, and Machine Learning**.  
 - 🏆 **Building & Deploying AI Projects** – Explore my work on **[Hugging Face](https://huggingface.co/Pradeep8)**.  
