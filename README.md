@@ -1,6 +1,6 @@
 
 # Hi, I'm Pradeep! 👋
-[![My Skills](https://skillicons.dev/icons?i=python,ml,pytorch,tensorflow,aws,gcp,azure,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,machinelearning,pytorch,tensorflow,aws,gcp,azure,flutter&perline=3)](https://skillicons.dev)
 
 ## 🚀 About Me
 
