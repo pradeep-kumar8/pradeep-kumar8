@@ -5,11 +5,8 @@
 
 <p>
   <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
   </a> &nbsp; 
-  <a href="https://github.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/tskMh.png" alt="github"> Github
-  </a>
 </p>
 ---
 
