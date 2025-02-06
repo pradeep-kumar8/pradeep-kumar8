@@ -1,8 +1,7 @@
 
 # Hi, I'm Pradeep! 👋
-
-## 🌍 Connect With Me  
-
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 <p>
   <a href="https://www.linkedin.com/in/pradeep-kumar8/" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin">
