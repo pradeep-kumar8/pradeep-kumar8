@@ -3,12 +3,7 @@
 
 ## 🌍 Connect With Me  
 
-<p align="left">
-  [![image](https://github.com/user-attachments/assets/ad2231b6-0eb8-47f5-b979-ca18ee501a3c)](https://www.linkedin.com/in/pradeep-kumar8/))
-  <a href="https://youtube.com/your-channel">
-    <img src="https://img.shields.io/badge/-white?logo=youtube&logoColor=FF0000&style=for-the-badge" />
-  </a>
-</p>
+[https://github.com/user-attachments/assets/ad2231b6-0eb8-47f5-b979-ca18ee501a3c](https://www.linkedin.com/in/pradeep-kumar8/))
 
 ---
 
