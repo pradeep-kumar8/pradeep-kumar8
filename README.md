@@ -1,6 +1,19 @@
 
 # Hi, I'm Pradeep! 👋
 
+## 🌍 Connect With Me  
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin-handle">
+    <img src="https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505" />
+  </a>
+  <a href="https://youtube.com/your-channel">
+    <img src="https://img.shields.io/badge/-white?logo=youtube&logoColor=FF0000&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
 ## 🚀 About Me
 
 - 🎯 Aspiring **AI | GenAI Engineer**, passionate about **RAG, LLMs, NLP, Generative AI, Agentic AI, and Machine Learning**.  
@@ -23,19 +36,6 @@
 ![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeep-kumar8&show_icons=true&theme=radical)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-kumar8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🌍 Connect With Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-handle">
-    <img src="https://img.shields.io/badge/-white?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
-  </a>
-  <a href="https://youtube.com/your-channel">
-    <img src="https://img.shields.io/badge/-white?logo=youtube&logoColor=FF0000&style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
