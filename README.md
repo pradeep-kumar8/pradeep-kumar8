@@ -28,10 +28,10 @@
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/your-linkedin-handle)  
-[![Hugging Face](https://img.shields.io/badge/-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black&label=)](https://huggingface.co/your-huggingface-profile)  
-[![YouTube](https://img.shields.io/badge/-FF0000?style=for-the-badge&logo=youtube&logoColor=white&label=)](https://youtube.com/your-channel)  
-[![Twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&label=)](https://twitter.com/your-twitter-handle)  
+[![LinkedIn](https://img.shields.io/badge/-white?logo=linkedin&logoColor=0A66C2&style=for-the-badge)](https://linkedin.com/in/your-linkedin-handle)  
+[![Hugging Face](https://img.shields.io/badge/-white?logo=huggingface&logoColor=FFCC00&style=for-the-badge)](https://huggingface.co/your-huggingface-profile)  
+[![YouTube](https://img.shields.io/badge/-white?logo=youtube&logoColor=FF0000&style=for-the-badge)](https://youtube.com/your-channel)  
+[![Twitter](https://img.shields.io/badge/-white?logo=twitter&logoColor=1DA1F2&style=for-the-badge)](https://twitter.com/your-twitter-handle)  
 
 ---
 
