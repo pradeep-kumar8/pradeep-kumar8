@@ -15,7 +15,7 @@
 
 - 🆓 Create **free educational content** about **Python, AI, and Machine Learning**.
 - 💻 My **tutorial codes** are available on **[GitHub](https://github.com/pradeep-kumar8?tab=repositories)**.
-- ✍️ I post articles on my **[Blog](#)**.
+- ✍️ I post articles on my **[LinkedIn](https://www.linkedin.com/in/pradeep-kumar8/)**.
 
 ---
 
